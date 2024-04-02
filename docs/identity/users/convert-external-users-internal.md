@@ -32,7 +32,7 @@ When a cloud user is converted from external to internal, administrators must sp
 
 ### Synced user conversion
 
-For on-premises synced users the administrator is unable to specify the UPN because on-premiss synced users are managed on-premises. 
+For on-premises synced users the administrator is unable to specify the UPN because these synced users are managed on-premises. 
 
 - Synced users where the tenant uses federated authentication
   - If Password Hash Sync (PHS) is enabled, administrators are blocked from setting a new password during conversion. 
